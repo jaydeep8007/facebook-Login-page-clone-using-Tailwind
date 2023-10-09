@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a clone of Facebook's login page, built using Tailwind CSS. It serves as a demonstration of responsive web design and the use of Tailwind CSS utility classes to recreate a familiar user interface.
+This project is a clone of Facebook's login page, built using Tailwind CSS. The use of Tailwind CSS utility classes to recreate a familiar user interface.
 
 ## Features
 
